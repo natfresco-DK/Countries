@@ -1,4 +1,4 @@
-package ek.dk.countries.Controllers;
+package ek.dk.countries.controllers;
 
 import org.springframework.web.bind.annotation.*;
 
